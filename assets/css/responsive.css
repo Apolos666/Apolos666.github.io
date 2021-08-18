@@ -15,6 +15,7 @@
 
     .contact-form .form-control {
         padding: 15px;
+        font-size: 16px;
     }
 
     .contact-info {
@@ -23,6 +24,10 @@
 
     .socials-list {
         font-size: 48px;
+    }
+
+    .contact-submit-btn {
+        font-size: 16px;
     }
 
     #footer .socials-list a {
@@ -41,7 +46,7 @@
 }
 
 /* Mobile */
-@media (max-width: 740px) {
+@media (max-width: 739px) {
     .s-full-width,
     .s-col-full {
         width: 100% !important;
